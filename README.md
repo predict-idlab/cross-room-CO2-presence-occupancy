@@ -2,7 +2,7 @@
 
 Codebase and dataset for the paper:
 > **Cross-Room CO<sub>2</sub>-based Presence Detection for Occupancy Profiling**</br>
-> Jelle Vanhaeverbeke, Emiel Deprost, Thibault Blyau, Jeroen Van Der Donckt, Steven Verstockt and Sofie Van Hoecke
+> Jelle Vanhaeverbeke, Emiel Deprost, Steven Verstockt and Sofie Van Hoecke
 
 ## Data
 The repository contains data from three offices:
